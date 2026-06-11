@@ -1,0 +1,24 @@
+{
+  "name": "Hanami HoHo Manga Reader",
+  "short_name": "Hanami HoHo",
+  "description": "Read premium translated legal manga, doujinshi, and artist webcomics online with seamless continuous vertical reader lanes.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#f43f5e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/api/proxy-image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607604276583-eef5d076aa5f%3Fw%3D192%26q%3D80",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/api/proxy-image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1607604276583-eef5d076aa5f%3Fw%3D512%26q%3D80",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
